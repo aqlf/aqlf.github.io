@@ -1,0 +1,166 @@
+
+#home{
+    background-color: #ecf0f1;
+}
+
+
+.fundo-home{
+    background-color: #34495e;
+    -moz-border-radius-bottomright: 90px;
+    -webkit-border-bottom-right-radius: 90px;
+    border-bottom-right-radius: 90px;
+
+}
+
+.margin-logo-aqlf{
+    background-color: white;
+    background-image: url("../img/background/back011.png");
+    background-position: right;
+    box-shadow: 1px 2px 30px 0px rgba(0, 0, 0, 0.73);
+    background-size: cover;
+}
+
+.margin-logo-aqlf img{
+    margin-left: 1px;
+    height: 115px;
+    position: static;
+}
+
+.col-esq{
+    color: #ecf0f1;
+}
+
+.col-esq h3{
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.col-esq p{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.col-esq a{
+    color: white;
+}
+
+.link-aqlf a{
+    color: #34495e;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #34495e;
+}
+
+.navbar-default .navbar-brand {
+    color: #34495e;
+}
+
+.carousel-caption{
+    background-color: rgba(3, 22, 55, 0.7);
+
+    font-size: 16px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.link-mid-page{
+    font-style: italic;
+}
+
+.col-aqlf{
+    margin-top: 10px;
+    background-color: #f5f5f5;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.col-aqlf a{
+    color: #34495e;
+    font-style: italic;
+}
+
+.color-font-aqlf{
+    color: #34495e;
+}
+
+.linha{
+    border-top: solid;
+    border-top-color: #2c3e50;
+}
+
+.linha2{
+    border-top: solid;
+    border-top-color: #ecf0f1;
+}
+
+.panel-aqlf a{
+    color: #34495e;
+}
+
+.margin_aqlf{
+   margin-top: 50px;
+}
+
+.bandeira{
+    max-height: 20px;
+    max-width: 20px;
+}
+
+.imgCarousel{
+      margin-left: 5px
+  }
+
+
+/******/
+
+
+.font_botton{
+    font-size: 10px;
+}
+
+/*geral*/
+.background_aqlf{
+    background-color: #fafeff;
+}
+.font-text-aqlf{
+    color: #34495e;
+}
+
+.div_areas{
+    margin-bottom: 20px;
+}
+
+.background_aqlf h1{
+    color: #2c3e50;
+}
+
+.contato-aqlf {
+    color: #7f8c8d;
+}
+
+.contato-aqlf b{
+    color: #34495e;
+}
+
+.contato-aqlf a{
+    color: #7f8c8d;
+}
+
+.contato-aqlf span{
+    color: #34495e;
+}
+
+.contato-aqlf hr{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.link_contato a:hover, a:link{
+    text-decoration: none;
+}
+
+
